@@ -1,4 +1,4 @@
-# robofriends
+# Robofriends
 
 Simple React Redux Robots personas 
 
